@@ -1,0 +1,6 @@
+category,GO category,GO id,GO term,
+transcription factors,MF,GO:0000988,"transcription factor activity, protein binding (protein binding transcription factor activity, transcription factor activity)",http://amigo.geneontology.org/amigo/term/GO:0000988
+innate immunity,BP,GO:0045087,"innate immune response (innate immunity, nonspecific immune response)",http://amigo.geneontology.org/amigo/term/GO:0045087
+regulator of cell division,BP,GO:0051301,cell division,http://amigo.geneontology.org/amigo/term/GO:0051301
+translation,MF,GO:0045182,translation regulator activity,http://amigo.geneontology.org/amigo/term/GO:0045182
+HIV,,,,
